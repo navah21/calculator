@@ -1,0 +1,80 @@
+body{
+    background-color: aqua;
+}
+input{
+    background-color: rgb(18, 17, 17);
+    color: beige;
+    width: 260px;
+}
+.black{
+    background-color: black;
+    width: 270px;
+    height: 320px;
+    margin-left: 700px;
+    margin-top: 200px;
+    font-weight: 100px;
+    
+}
+.c1{
+    background-color: grey;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+.c2{
+    background-color:orange;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+.b1{
+display: flex;
+flex-direction: row;
+gap: 10px;
+margin-left: 20px;
+margin-top: 10px;
+
+}
+.c4{
+    background-color:rgb(31, 31, 30);
+    color: aliceblue;
+    border-radius: 50px;
+    width: 110px;
+    height: 50px;
+}
+.c3{
+    background-color:rgb(31, 31, 30);
+    color: aliceblue;
+    border-radius: 100px;
+    width: 50px;
+    height: 50px;
+}
+.b3{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+    }
+    .b4{
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+        margin-left: 20px;
+        margin-top: 10px;  
+    }
+    .b5{
+        display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    }
+    .b6{
+        display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+    }
